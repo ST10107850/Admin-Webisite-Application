@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "815373948346",
+    "firebase_url": "https://work-intergrated-6ee73-default-rtdb.firebaseio.com",
+    "project_id": "work-intergrated-6ee73",
+    "storage_bucket": "work-intergrated-6ee73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815373948346:android:db9b1f98c3b37b41aaf983",
+        "android_client_info": {
+          "package_name": "com.example.part_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcm2DVaq7g_oog22YLowkUS_f4K675XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815373948346:android:df75554b92f1d7dcaaf983",
+        "android_client_info": {
+          "package_name": "com.example.work_intergrated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcm2DVaq7g_oog22YLowkUS_f4K675XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
